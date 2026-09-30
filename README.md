@@ -1,21 +1,16 @@
-<p align="center"><img src="assets/profile-cover.svg" alt="sirui.files: a little curiosity, a lot of experiments" width="100%"></p>
+<h2 align="center">sirui.files</h2>
 
-<p align="center"><b>A bitakora of code, experiments, and things worth figuring out.</b></p>
+<p align="center">Exploring the possibilities of machine learning for positive impact.</p>
 
-### Currently exploring
+<br>
 
-Computer vision, deep learning, and the small surprises that appear when a model meets the real world. I like turning experiments into visual explanations that are easy to follow.
+I'm curious about how thoughtful technology can help people understand the world, solve meaningful problems, and discover new possibilities.
 
-| Learning | Making | Wondering |
-| :--- | :--- | :--- |
-| How CNNs recognize patterns | Clear notebooks and visual project guides | When should an AI ask for help? |
+This space brings together projects, experiments, and notes as I learn and explore.
 
-### A recent field note
+**Current interests**  
+Machine learning · Human-centered AI · Creative applications
 
-**A handwritten 7 became a 2.** A small CNN performed well on MNIST, then stumbled on a personal handwriting style. That mistake became a closer look at preprocessing, uncertainty, and what test accuracy does and does not tell us.
+<br>
 
-### Elsewhere in the collection
-
-[**gym2go-detect →**](https://github.com/Sirui-ii/gym2go-detect)
-
-<sub>Learn it. Build it. Look closer.</sub>
+<sub>Curiosity, care, and continuous learning.</sub>
