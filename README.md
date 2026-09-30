@@ -6,7 +6,7 @@
 
 I'm curious about how thoughtful technology can help people understand the world, solve meaningful problems, and discover new possibilities.
 
-This space brings together projects, experiments, and notes as I learn and explore.
+I am eager to contribute here to projects, experiments, and notes as I learn and explore.
 
 **Current interests**  
 Machine learning · Human-centered AI · Creative applications
